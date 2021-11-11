@@ -20,7 +20,27 @@ House Rocket's CEO asked for a machine learning model to make better decisions i
 
 **Assumptions (hypothesis)** were formulated in order to be tested.
 
+1. Properties with **the lowest prices** are **located in Seattle**;
+2. Properties with **basement** are **20% more expensive**, on median;
+3. Properties which were **renovated after 2000's** are **40% more expensive**, on median;
+4. Properties **constructed after 2000's** are **2% cheaper**, on median;
+5. The **property prices** are **related to the day of the week, to the month, to the season and to the year**. 
+
 # 3. Solution Strategy
+
+**Step 01 - Exploratory data analysis:** the main goal is better understand the dataset by applying statistics metrics as well as identifying missing values and outliers.
+
+**Step 02 - Feature selection:** identifying the most important attributes related to the price.
+
+**Step 03 - Assumptions test (Hypothesis test) and business problems solutions:** testing the formulated hypothesis and solving the business problems set by the CEO.
+
+**Step 04 - Feature Engineering:** Developing new attributes based on the original features in order to better describe the phenomenon to be modeled. 
+
+**Step 05 - Machine Learning Model:** Training and selecting the Machine Learning model to choose the best parameter values. 
+
+**Step 06 - Insights:** the highlight of the main insights.
+
+**Step 07 - Conversion of insights:** converting insights into business results.
 
 # 4. Top 3 Data Insights
 
