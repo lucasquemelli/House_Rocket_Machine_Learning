@@ -20,8 +20,8 @@ House Rocket's CEO asked for a machine learning model to make better decisions i
 
 **Assumptions (hypothesis)** were formulated in order to be tested.
 
-1. Properties **located in Seattle** are **5% more expensive**, on median;
-2. Properties with **basement** are **20% more expensive**, on median;
+1. Properties **located in Seattle** are **5% more expensive**, on median, than those located in other cities;
+2. Properties with **basement** are **20% more expensive**, on median, than those without basement;
 3. Properties which were **renovated after 2000's** are **45% more expensive**, on median, than those without renovation and **20% more expensive**, on median, than those renovated before 2000's;
 4. Properties **constructed after 2000's** are **2% cheaper**, on median;
 5. The **property prices** are **related to the day of the week, to the month, to the season and to the year**. 
