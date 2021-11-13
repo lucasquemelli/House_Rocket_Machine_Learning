@@ -24,7 +24,7 @@ House Rocket's CEO asked for a machine learning model to make better decisions i
 2. Properties with **basement** are **20% more expensive**, on median, than those without basement;
 3. Properties which were **renovated after 2000's** are **45% more expensive**, on median, than those without renovation and **20% more expensive**, on median, than those renovated before 2000's;
 4. Properties **constructed after 2000's** are **2% cheaper**, on median;
-5. The **property prices** are **related to the day of the week, to the month, to the season and to the year**. 
+5. The **property prices** are **related to the day of week, to the month, to the year and to the season**. 
 
 # 3. Solution Strategy
 
