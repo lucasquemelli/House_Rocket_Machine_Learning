@@ -34,7 +34,7 @@ House Rocket's CEO asked for a machine learning model to make better decisions i
 
 **Step 03 - Assumptions test (Hypothesis test) and business problems solutions:** testing the formulated hypothesis and solving the business problems set by the CEO.
 
-**Step 04 - Feature Engineering:** Developing new attributes based on the original features in order to better describe the phenomenon to be modeled. 
+**Step 04 - Feature Engineering:** Developing new variables based on the original features in order to better describe the phenomenon to be modeled. 
 
 **Step 05 - Machine Learning Model:** Training and selecting the Machine Learning model to choose the best parameter values. 
 
