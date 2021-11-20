@@ -36,7 +36,7 @@ House Rocket's CEO asked for a machine learning model to make better decisions i
 
 **Step 04 - Feature Engineering:** Developing new variables based on the original features in order to better describe the phenomenon to be modeled. 
 
-**Step 05 - Machine Learning Model:** Training and selecting the Machine Learning model to choose the best parameter values. 
+**Step 05 - Machine Learning Model:** Training and selecting the Machine Learning model to determine the best parameter values. 
 
 **Step 06 - Insights:** the highlight of the main insights.
 
