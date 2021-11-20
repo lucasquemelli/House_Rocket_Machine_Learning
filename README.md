@@ -58,7 +58,7 @@ House Rocket's CEO asked for a machine learning model to make better decisions i
 
 **Hypothesis 5:** The property prices are related to the day of week, to the month, to the year and to the season.
 
-**True.** (5.1) Day of week: Saturday and sunday are the days which properties are least purchased. Each one has 1.33% and 1.06% of total sales, respectively. Even so, they have have the highest median prices which are 475000.0 and $ 471250.0 dollars, respectively. Thus, we can make a sale on these days in order to sell more properties. Furthermore, as tuesday is the highest percentage sale day (21.81%), we may choose specific properties to sell on this day to increase profit. 
+**True.** (5.1) Day of week: Saturday and sunday are the days which properties are least purchased. Each one has 1.33% and 1.06% of total sales, respectively. Even so, they have have the highest median prices which are 475000.0 and 471250.0 dollars, respectively. Thus, we can make a sale on these days in order to sell more properties. Furthermore, as tuesday is the highest percentage sale day (21.81%), we may choose specific properties to sell on this day to increase profit. 
 
 **True.** (5.2) Month: The month with the smallest number of properties sold is January (4.5%) and the highest is May (11.2%). The lowest median price is for February: 426045.0 dollars. The highest median price is for April: 477000.0 dollars. So we may purchase properties in February (due to the lowest prices) and resell them in April (highest prices) to increase profit.
 
