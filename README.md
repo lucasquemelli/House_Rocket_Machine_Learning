@@ -68,4 +68,16 @@ House Rocket's CEO asked for a machine learning model to make better decisions i
 
 # 6. Conclusions 
 
+It was reached a profit of $ 1,275,290.00 (75.38%) by using Multiple Linear Regression as the Machine Learning model and by choosing the following characteristics:
+
+- 5-bedrooms properties. 
+- Properties with less than 3 bathrooms.
+- 9000.00 dollars as the cost to add each bathrooms. 
+- Condition feature equals to or higher than 3.
+- Properties with living area larger than 1900 ft².
+- A limit price of 260000.00 dollars to purchase the properties.
+- April as the month to resell the properties.
+- A minimum profit margin of 10%. 
+- No basement. 
+
 # 7. Next Steps
