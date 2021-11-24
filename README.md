@@ -67,7 +67,7 @@ House Rocket's CEO asked for a machine learning model to make better decisions i
 # 5. Business Results
 
 | Total Purchase cost (USD) | Total renovation cost (USD) | Total cost (USD) | Total sales price (USD) | Profit (USD) | Profit Percentage (%) |
-|:--------------------------|:----------------------------|:-----------------|:------------------------|:-------------|:----------------------|
+|:-------------------------:|:---------------------------:|:----------------:|:-----------------------:|:------------:|:---------------------:|
 |         1502750.00        |          189000.00          |     1691750.00   |        2967040.00       |  1275290.00  |          75.38        |      
 
 # 6. Conclusions 
