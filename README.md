@@ -87,3 +87,5 @@ It was reached a profit of $ 1,275,290.00 (75.38%) by using Multiple Linear Regr
 - No basement. 
 
 # 7. Next Steps
+
+Use **artificial neural networks (RNAs)** to make sales decisions.
