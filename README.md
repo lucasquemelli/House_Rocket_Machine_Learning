@@ -32,7 +32,7 @@ House Rocket's CEO asked for a machine learning model to make better decisions i
 
 **Step 02 - Feature selection:** identifying the most important attributes related to the price.
 
-**Step 03 - Assumptions test (Hypothesis test) and business problems solutions:** testing the formulated hypothesis.
+**Step 03 - Assumptions test (Hypothesis test):** testing the formulated hypothesis.
 
 **Step 04 - Feature Engineering:** Developing new variables based on the original features in order to better describe the phenomenon to be modeled. 
 
