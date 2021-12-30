@@ -1,5 +1,7 @@
 # House_Rocket_Machine_Learning
 
+<code><img width="https://github.com/lucasquemelli/House_Rocket_Machine_Learning/blob/main/cover%20image/img-two.jpg"></code>
+
 # 1. Business Problems
 
 **House Rocket** is a fictiticious company whose business model is the purchase and sale of real estate.
