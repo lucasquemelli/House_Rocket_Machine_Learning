@@ -78,7 +78,7 @@ It was reached a profit of $ 1,275,290.00 (75.38%) by using Multiple Linear Regr
 
 - 5-bedrooms properties. 
 - Properties with less than 3 bathrooms.
-- 9000.00 dollars as the cost to add each bathrooms. 
+- 9000.00 dollars as the cost to add each bathroom. 
 - Condition feature equals to or higher than 3.
 - Properties with living area larger than 1900 ft².
 - A limit price of 260000.00 dollars to purchase the properties.
