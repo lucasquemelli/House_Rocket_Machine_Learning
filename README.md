@@ -1,6 +1,6 @@
 # House_Rocket_Machine_Learning
 
-<code><img width="https://github.com/lucasquemelli/House_Rocket_Machine_Learning/blob/main/cover%20image/img-two.jpg"></code>.
+<code><img width="100%" src="https://github.com/lucasquemelli/House_Rocket_Machine_Learning/blob/main/cover%20image/img-two.jpg"></code>
 
 # 1. Business Problems
 
